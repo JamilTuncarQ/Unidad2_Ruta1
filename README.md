@@ -1,6 +1,6 @@
 # Ejercicios en kotlin de la Unidad 2
 - Ejercicio1
-![Imagen 1](Imagenes\ejercicio1.png)
+![Imagen 1](Imagenes/ejercicio1.png)
 - Ejercicio2
 ![Imagen 2](Imagenes/ejercicio2.png)
 - Ejercicio3
